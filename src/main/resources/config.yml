@@ -1,0 +1,26 @@
+Messages:
+  Apenas-InGame: "&cVocê não pode executar este comando aqui!"
+  Pedido-De-Ajuda-Aberto: "&cVocê já tem uma solicitação de ajuda aberta."
+  Comando-Incorreto: "&cComando utilizado de forma incorreta!\n&4Utilize: &c[comando]"
+  Nenhum-Pedido-Aberto: "&cNão foi encontrado nenhuma solicitação de ajuda em seu nome!"
+  Solicitar-Ajuda: "&aSolicitação de ajuda enviada, Porfavor aguarde até que um Staff aceite seu pedido! \n&cPara fechar utilize: /ajuda fechar"
+  Nova-Solicitacao:
+    - ''
+    - '  &f&l{ &e&lNova Solicitação de ajuda! &f&l}'
+    - ''
+    - '&6Player: &e[player]'
+    - ''
+    - '&6Motivo: &e[motivo]'
+    - ''
+    - ''
+  Fechou-Solicitacao: "&cVocê fechou sua solicitação de ajuda!"
+  Sem-Permissao: "&cVocê não tem permissão para executar este comando!"
+
+Gui-Solicitacoes:
+  Nome: "&a&lSolicitações de ajuda"
+  Linhas-de-slots: 6 #linhas do GUI
+  Fechar-Tudo:
+    nome: "&4&lFechar Tudo"
+
+Gui-Top:
+  Nome: "§b&lTOP §bAjudas"

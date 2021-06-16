@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PV-AjudaV2:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a71f212-e8ec-4860-a788-744db0ac1c30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PV-AjudaV2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PV_AjudaV2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Comandos/AceitarAjuda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Comandos/Ajuda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Comandos/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Comparator/Decrescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Eventos/Eventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Eventos/GuiEventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Eventos/JoinExitEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Eventos/Top.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Guis/GuiPedidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Guis/GuiTop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/pv/ajuda/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +45,14 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\usuario\IdeaProjects\PV-AjudaV2\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -47,6 +70,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/APIS JAVA/EduardAPI v2.2.0 2018-05-02.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -71,16 +99,56 @@
       <option name="presentableId" value="Default" />
       <updated>1623114462538</updated>
     </task>
+    <task id="LOCAL-00001" summary="PV-AjudaV2">
+      <created>1623114897998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623114897998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PV-AjudaV2" />
+    <option name="LAST_COMMIT_MESSAGE" value="PV-AjudaV2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="45" key="CommitChangelistDialog2" timestamp="1623114852688">
+    <state x="392" y="107" key="#Project_Structure" timestamp="1623499969694">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="454" y="45" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1623114852688" />
+    <state x="392" y="107" key="#Project_Structure/0.0.1600.900@0.0.1600.900" timestamp="1623499969694" />
+    <state x="605" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1623644351807">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="605" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1623644351807" />
+    <state x="454" y="45" key="CommitChangelistDialog2" timestamp="1623115178034">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="454" y="45" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1623115178034" />
     <state x="152" y="70" key="DiffContextDialog" timestamp="1623114691853">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="152" y="70" key="DiffContextDialog/0.0.1600.900@0.0.1600.900" timestamp="1623114691853" />
+    <state x="580" y="190" key="FileChooserDialogImpl" timestamp="1623499851450">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="190" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1623499851450" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1623114972538">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1623114972538" />
+    <state x="495" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1623809218905">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="495" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1623809218905" />
+    <state x="609" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1623115114279">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="609" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.900@0.0.1600.900" timestamp="1623115114279" />
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1623709443731">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1623709443731" />
   </component>
 </project>

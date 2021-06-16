@@ -1,0 +1,10 @@
+name: PV-AjudaV2
+author: Pedro_Victor
+version: 2.0
+main: me.pv.ajuda.Main
+description: Comando de ajuda! Versão 2.0
+commands:
+  aceitarajuda:
+    aliases: [aa]
+  ajuda:
+  staff:

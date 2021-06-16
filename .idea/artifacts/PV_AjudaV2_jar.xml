@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PV-AjudaV2:jar">
+    <output-path>D:/Meus plugins</output-path>
+    <root id="archive" name="PV-AjudaV2.jar">
+      <element id="module-output" name="PV-AjudaV2" />
+    </root>
+  </artifact>
+</component>
